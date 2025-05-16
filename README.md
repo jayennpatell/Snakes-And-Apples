@@ -24,4 +24,4 @@ A simple console-based Snake game built using C++. This project recreates the cl
 3. Compile using the following command:
 
    ```bash
-   g++ snake_game.cpp -o snake_game
+   g++ snakegame.cpp -o snakegame
